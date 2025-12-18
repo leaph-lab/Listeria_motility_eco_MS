@@ -29,4 +29,4 @@ Code used to replicate data analyses in the manuscruipt 'Motile and non-motile _
 > - For any R code execution directly in the notebook, make sure to include the appropriate ```%R``` or ```%%R``` syntax when working with the ```rpy2``` extension.
 
 ## Structure
-```Listeria_motility_eco_MS.ipynb```: The code used for analysis and to generate the plots in Figs. 1a-b, 1e-f, 2a–f, 3a-f, 4a, 4c-d, and Supplementary Figs. 1-6.
+```Listeria_motility_eco_MS.ipynb```: The code used for analysis and to generate the plots in Figs. 1a-b, 1e-g, 2a–g, 3a-f, 4a, 4c-d, and Supplementary Figs. 1-8.
