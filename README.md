@@ -39,7 +39,7 @@ The code included analysis for:\
 ```Supplementary Fig. 2a```: Accumulation curves of the core genome and pangenome of _L. welshimeri_ and _L. booriae_.\
 ```Fig. 1f```: Comparison of gene richness between _L. welshimeri_ and _L. booriae_.\
 ```Supplementary Fig. 2b```: Comparison of genome size between _L. welshimeri_ and _L. booriae_.\
-```Fig. 1g```: Comparison of nucleotide diversity (π) between _L. welshimeri_ and _L. booriae_.\
+```Fig. 1g```: Comparison of nucleotide diversity (π) between _L. welshimeri_ and _L. booriae_.
 
 ```Fig. 2a```: Volcano plot of COG abundance differences between species.\
 ```Supplementary Fig. 3```: Comparison of relative abundance of putatively functional motility genes between _L. welshimeri_ and _L. booriae_.\
@@ -48,7 +48,7 @@ The code included analysis for:\
 ```Fig. 2d```: Enrichment of COGs among accessory genes with evidence of PS and no homologous recombination.\
 ```Fig. 2e```: Comparison of Shannon-Wiener diversity of KEGG pathways related to cellular processes and environmental information processing between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2f```: Comparison of Shannon–Wiener diversity of KEGG pathways related to genetic information processing between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2g```: Comparison of Shannon–Wiener diversity of KEGG pathways related to metabolism between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2g```: Comparison of Shannon–Wiener diversity of KEGG pathways related to metabolism between _L. welshimeri_ and _L. booriae_.
 ```Supplementary Fig. 4```: Comparison of Shannon–Wiener diversity of overall KEGG biological pathways between _L. welshimeri_ and _L. booriae_.\
 
 ```Supplementary Fig. 5a```: Volcano plot of abiotic factors showing fold change versus statistical significance.\
