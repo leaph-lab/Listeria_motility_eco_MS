@@ -38,7 +38,7 @@ The code included analysis for:\
 ```Fig. 1e```: Pangenome sizes of _L. welshimeri_ and _L. booriae_, divided into core and accessory genomes, with predicted pangenome sizes estimated from 100 genomes per species.\
 ```Supplementary Fig. 2a```: Accumulation curves of the core genome and pangenome of _L. welshimeri_ and _L. booriae_.\
 ```Fig. 1f```: Comparison of gene richness between _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 2b```: Comparison of genome size between _L. welshimeri_ and _L. booriae_.
+```Supplementary Fig. 2b```: Comparison of genome size between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 1g```: Comparison of nucleotide diversity (π) between _L. welshimeri_ and _L. booriae_.\
 
 ```Fig. 2a```: Volcano plot of COG abundance differences between species.\
