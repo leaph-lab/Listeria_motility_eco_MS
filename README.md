@@ -48,8 +48,8 @@ The code included analysis for:\
 ```Fig. 2d```: Enrichment of COGs among accessory genes with evidence of PS and no homologous recombination.\
 ```Fig. 2e```: Comparison of Shannon-Wiener diversity of KEGG pathways related to cellular processes and environmental information processing between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2f```: Comparison of Shannon–Wiener diversity of KEGG pathways related to genetic information processing between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2g```: Comparison of Shannon–Wiener diversity of KEGG pathways related to metabolism between _L. welshimeri_ and _L. booriae_.
-```Supplementary Fig. 4```: Comparison of Shannon–Wiener diversity of overall KEGG biological pathways between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2g```: Comparison of Shannon–Wiener diversity of KEGG pathways related to metabolism between _L. welshimeri_ and _L. booriae_.\
+```Supplementary Fig. 4```: Comparison of Shannon–Wiener diversity of overall KEGG biological pathways between _L. welshimeri_ and _L. booriae_.
 
 ```Supplementary Fig. 5a```: Volcano plot of abiotic factors showing fold change versus statistical significance.\
 ```Supplementary Fig. 5b```: Volcano plot of relative abundance of bacterial phyla showing fold change versus statistical significance.
@@ -69,4 +69,4 @@ The code included analysis for:\
 ```Fig. 4a```: Relationship between average nucleotide identity (ANI) and geographic distances in _L. welshimeri_ and _L. booriae_.\
 ```Supplementary Fig. 8```: Relationship between gene presence/absence–based Jaccard similarity and geographic distance in _L. welshimeri_ and _L. booriae_.\
 ```Fig. 4c```: Pairwise ANI comparisons between soil and wildlife isolates of _L. welshimeri_.\
-```Fig. 4d```: Comparison of genome size, gene richness, and GC content between monophyletic soil and wildlife _L. welshimeri_ isolates.\
+```Fig. 4d```: Comparison of genome size, gene richness, and GC content between monophyletic soil and wildlife _L. welshimeri_ isolates.
