@@ -1,0 +1,10 @@
+isolate_id,species,number_of_contigs,genome_size_bp,GC (%),N50,average_coverage,source,Completeness,Contamination
+R12-1513,L. welshimeri,23,2811549,36.15,231183,277.434,wildlife,99.99,2.38
+R12-1515,L. welshimeri,23,2811815,36.15,211174,185.761,wildlife,99.99,2.38
+R12-1514,L. welshimeri,23,2811291,36.15,231183,169.532,wildlife,99.99,2.38
+R12-1508,L. welshimeri,23,2811549,36.15,231183,197.089,wildlife,99.99,2.38
+R9-8816,L. welshimeri,13,2807495,36.26,437255,305.093,wildlife,99.99,1.18
+R12-1512,L. welshimeri,23,2811549,36.15,231183,293.503,wildlife,99.99,2.38
+R12-1511,L. welshimeri,24,2811814,36.15,211174,229.813,wildlife,99.99,2.38
+R12-1516,L. welshimeri,22,2811550,36.15,231183,283.353,wildlife,99.99,2.38
+R12-1509,L. welshimeri,23,2811549,36.15,231183,216.159,wildlife,99.99,2.38
