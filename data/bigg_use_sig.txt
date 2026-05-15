@@ -1,0 +1,102 @@
+BiGG_ID	Chemical_Name	Harmonized_Category
+EX_12ppd__R_e	(R)-Propane-1,2-diol	Organic Acid & Lipid Metabolism
+EX_26dap__M_e	meso-2,6-Diaminopimelate	Cell Wall/Capsule Biosynthesis
+EX_2mbald_e	2-Methylbutyraldehyde	Organic Acid & Lipid Metabolism
+EX_4hphac_e	4-Hydroxyphenylacetate	Organic Acid & Lipid Metabolism
+EX_5mcsn_e	5-Methylcytosine	Nucleotide & Base Metabolism
+EX_LalaDgluMdap_e	L-alanyl-D-glutamyl-meso-2,6-diaminopimelate	Cell Wall/Capsule Biosynthesis
+EX_R3hdec4e_e	(R)-3-hydroxydec-4-enoate	Organic Acid & Lipid Metabolism
+EX_R_3hdcaa_e	(R)-3-hydroxydecanoate	Organic Acid & Lipid Metabolism
+EX_acac_e	Acetoacetate	Organic Acid & Lipid Metabolism
+EX_ad_e	Adenosine	Nucleotide & Base Metabolism
+EX_ala_B_e	beta-Alanine	Amino Acid & Peptide Metabolism
+EX_alaala_e	L-Alanyl-L-alanine	Amino Acid & Peptide Metabolism
+EX_chtbs_e	Chitobiose	Carbohydrate Metabolism
+EX_csn_e	Cytosine	Nucleotide & Base Metabolism
+EX_etha_e	Ethanolamine	Nitrogen, Sulfur & Phosphorus
+EX_eths_e	Ethanesulfonate	Nitrogen, Sulfur & Phosphorus
+EX_forglu_e	N-Formyl-L-glutamate	Amino Acid & Peptide Metabolism
+EX_fuc_e	L-Fucose	Carbohydrate Metabolism
+EX_gcald_e	Glycolaldehyde	Organic Acid & Lipid Metabolism
+EX_hom__L_e	L-Homoserine	Amino Acid & Peptide Metabolism
+EX_hxa_e	Hexanoate	Organic Acid & Lipid Metabolism
+EX_ibtol_e	4-isobutyltoluene	Organic Acid & Lipid Metabolism
+EX_isobuta_e	Isobutyrate	Organic Acid & Lipid Metabolism
+EX_man6pglyc_e	D-Mannose 6-phosphate-glyceryl	Carbohydrate Metabolism
+EX_mnl1p_e	D-Mannitol 1-phosphate	Carbohydrate Metabolism
+EX_pacald_e	Phenylacetaldehyde	Organic Acid & Lipid Metabolism
+EX_peamn_e	Phenethylamine	Nitrogen, Sulfur & Phosphorus
+EX_so3_e	Sulfite	Inorganic Ion & Metal Transport
+EX_sula_e	Sulfoacetate	Nitrogen, Sulfur & Phosphorus
+EX_tgt_e	Tiglate	Organic Acid & Lipid Metabolism
+EX_thym_e	Thymine	Nucleotide & Base Metabolism
+EX_tton_e	Threonate	Organic Acid & Lipid Metabolism
+EX_uaccg_e	UDP-N-acetyl-D-glucosamine	Cell Wall/Capsule Biosynthesis
+EX_udcpp_e	Undecaprenyl diphosphate	Cell Wall/Capsule Biosynthesis
+EX_15dap_e	1,5-Diaminopentane (Cadaverine)	Nitrogen, Sulfur & Phosphorus
+EX_2mba_e	2-Methylbutyrate	Organic Acid & Lipid Metabolism
+EX_4ahmmp_e	4-Amino-5-hydroxymethyl-2-methylpyrimidine	Cofactor & Vitamin Metabolism
+EX_LalaLglu_e	L-Alanyl-L-glutamate	Amino Acid & Peptide Metabolism
+EX_agm_e	Agmatine	Nitrogen, Sulfur & Phosphorus
+EX_akg_e	alpha-Ketoglutarate	Organic Acid & Lipid Metabolism
+EX_alltn_e	Allantoin	Nitrogen, Sulfur & Phosphorus
+EX_bz_e	Benzoate	Organic Acid & Lipid Metabolism
+EX_cell4_e	Cellotetraose	Carbohydrate Metabolism
+EX_cm_e	Chorismate	Amino Acid & Peptide Metabolism
+EX_cresol_e	p-Cresol	Organic Acid & Lipid Metabolism
+EX_cu_e	Copper (I)	Inorganic Ion & Metal Transport
+EX_cytd_e	Cytidine	Nucleotide & Base Metabolism
+EX_d23hb_e	2,3-Dihydroxybenzoate	Iron Scavenging & Transport
+EX_dachi_e	Cell Wall Fragment	Cell Wall/Capsule Biosynthesis
+EX_dcyt_e	Deoxycytidine	Nucleotide & Base Metabolism
+EX_dextrin_e	Dextrin	Carbohydrate Metabolism
+EX_dhptd_e	4,5-Dihydroxy-2,3-pentanedione (AI-2)	Organic Acid & Lipid Metabolism
+EX_dmso2_e	Dimethyl sulfone	Nitrogen, Sulfur & Phosphorus
+EX_enter_e	Enterobactin	Iron Scavenging & Transport
+EX_fe3dcit_e	Ferric dicitrate	Iron Scavenging & Transport
+EX_fe3hox_e	Ferric hydroxamate	Iron Scavenging & Transport
+EX_fe3hox_un_e	Ferric hydroxamate (unbound)	Iron Scavenging & Transport
+EX_feenter_e	Ferrienterobactin	Iron Scavenging & Transport
+EX_feoxam_e	Ferrioxamine	Iron Scavenging & Transport
+EX_feoxam_un_e	Ferrioxamine (unbound)	Iron Scavenging & Transport
+EX_frmd_e	Formamide	Nitrogen, Sulfur & Phosphorus
+EX_fum_e	Fumarate	Organic Acid & Lipid Metabolism
+EX_g3pc_e	sn-Glycero-3-phosphocholine	Organic Acid & Lipid Metabolism
+EX_g3pg_e	sn-Glycero-3-phosphoglycerol	Organic Acid & Lipid Metabolism
+EX_g3pi_e	sn-Glycero-3-phospho-myo-inositol	Organic Acid & Lipid Metabolism
+EX_g3ps_e	sn-Glycero-3-phosphoserine	Organic Acid & Lipid Metabolism
+EX_galctn__D_e	D-Galactonate	Carbohydrate Metabolism
+EX_galur_e	D-Galacturonate	Carbohydrate Metabolism
+EX_glcur_e	D-Glucuronate	Carbohydrate Metabolism
+EX_glucan4_e	Malto-oligosaccharide (4 units)	Carbohydrate Metabolism
+EX_glucan6_e	Malto-oligosaccharide (6 units)	Carbohydrate Metabolism
+EX_glyclt_e	Glycolate	Organic Acid & Lipid Metabolism
+EX_h2s_e	Hydrogen sulfide	Nitrogen, Sulfur & Phosphorus
+EX_hco3_e	Bicarbonate	Inorganic Ion & Metal Transport
+EX_hexs_e	Hexanesulfonate	Nitrogen, Sulfur & Phosphorus
+EX_id3acald_e	Indole-3-acetaldehyde	Organic Acid & Lipid Metabolism
+EX_ind3ac_e	Indole-3-acetate	Organic Acid & Lipid Metabolism
+EX_ins_e	Inosine	Nucleotide & Base Metabolism
+EX_lmn2_e	Laminaribiose	Carbohydrate Metabolism
+EX_manglyc_e	Mannosylglycerate	Carbohydrate Metabolism
+EX_melib_e	Melibiose	Carbohydrate Metabolism
+EX_metglcur_e	Methyl-alpha-D-glucuronide	Carbohydrate Metabolism
+EX_nmn_e	NMN	Cofactor & Vitamin Metabolism
+EX_no3_e	Nitrate	Nitrogen, Sulfur & Phosphorus
+EX_ocdcea_e	Octadecanoate	Organic Acid & Lipid Metabolism
+EX_orn__L_e	L-Ornithine	Amino Acid & Peptide Metabolism
+EX_oxa_e	Oxalate	Organic Acid & Lipid Metabolism
+EX_raffin_e	Raffinose	Carbohydrate Metabolism
+EX_rmn_e	L-Rhamnose	Carbohydrate Metabolism
+EX_sel_e	Selenate	Inorganic Ion & Metal Transport
+EX_slnt_e	Selenite	Inorganic Ion & Metal Transport
+EX_succ_e	Succinate	Organic Acid & Lipid Metabolism
+EX_taur_e	Taurine	Nitrogen, Sulfur & Phosphorus
+EX_tet_e	Tetrathionate	Nitrogen, Sulfur & Phosphorus
+EX_thymd_e	Thymidine	Nucleotide & Base Metabolism
+EX_urea_e	Urea	Nitrogen, Sulfur & Phosphorus
+EX_uri_e	Uridine	Nucleotide & Base Metabolism
+EX_xtsn_e	Xanthosine	Nucleotide & Base Metabolism
+EX_xyl3_e	Xylotriose	Carbohydrate Metabolism
+EX_xylan4_e	Xylotetraose	Carbohydrate Metabolism
+EX_xylb_e	Xylobiose	Carbohydrate Metabolism
