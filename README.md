@@ -1,5 +1,5 @@
 # Listeria_motility_eco_MS
-Code used to replicate data analyses in the manuscruipt 'Motile and non-motile _Listeria_ species adopt distinct genomic and ecological strategies to achieve broad geographic range in soil.'
+Code and data used to replicate data analyses in the manuscruipt 'Motile and non-motile _Listeria_ species adopt distinct ecological and evolutionary strategies to achieve comparably broad geographic ranges across soil ecosystems.'
 
 ## Required Python packages
 - numpy
@@ -29,6 +29,8 @@ Code used to replicate data analyses in the manuscruipt 'Motile and non-motile _
 > - For any R code execution directly in the notebook, make sure to include the appropriate ```%R``` or ```%%R``` syntax when working with the ```rpy2``` extension.
 
 ## Structure
+```Listeria_motility_eco_MS/data/```: The data needed for analysis.
+
 ```Listeria_motility_eco_MS.ipynb```: The code used for analysis and to generate the plots in Figs. 1A-B, 1E-G, 2A–H, 2J-K, 3A-F, 4A-G, and Supplementary Figs. 1-15.
 
 The code included analysis for:\
