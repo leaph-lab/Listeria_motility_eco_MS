@@ -32,7 +32,7 @@ Processed/source data are available in ```Listeria_motility_eco_MS/data/``` dire
 > - For any R code execution directly in the notebook, make sure to include the appropriate ```%R``` or ```%%R``` syntax when working with the ```rpy2``` extension.
 
 ## Structure
-```Listeria_motility_eco_MS.ipynb```: The code used for analysis and to generate the plots in Figs. 1A-B, 1E-G, 2A–H, 2J-K, 3A-F, 4A-G, and Supplementary Figs. 1-15.
+```Listeria_motility_eco_MS.ipynb```: The code used for analysis and to generate the plots in Figs. 1A-B, 1E-G, 2A-J, 3A-F, 4A-G, and Supplementary Figs. 1-16.
 
 The code included analysis for:\
 ```Fig. 1A```: Geographic distribution of _L. welshimeri_ isolates.\
@@ -45,18 +45,24 @@ The code included analysis for:\
 ```Supplementary Fig. 2B```: Genome sizes of isolates compared between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 1G```: Nucleotide diversity (π) compared between between _L. welshimeri_ and _L. booriae_.
 
-```Fig. 2A```: Volcano plot of COG abundance differences between _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 3```: Relative abundance of putatively functional motility genes compared between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2B```: Relative abundance of putatively functional chemotaxis genes compared between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2C```: Enrichment of COGs among core genes with evidence of positive selection.\
-```Fig. 2D```: Enrichment of COGs among accessory genes with evidence of positive selection.\
-```Fig. 2E```: Shannon-Wiener diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for cellular processes.\
-```Fig. 2F```: Shannon-Wiener diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for environmental information processing.\
-```Fig. 2G```: Shannon-Wiener diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for genetic information processing.\
-```Fig. 2H```: Shannon-Wiener diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for metabolism.\
-```Supplementary Fig. 4A```: KEGG pathway subgroup abundance compared between _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 4B```: KEGG pathway subgroup diversity compared between _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 5```: Shannon-Wiener diversity of overall biological pathways compared between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2A```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for cellular processes.\
+```Supplementary Fig. 3A```: KEGG pathway subgroup abundance compared between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2B```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for environmental information processing.\
+```Supplementary Fig. 3B```: KEGG pathway subgroup diversity compared between _L. welshimeri_ and _L. booriae_.\ 
+```Fig. 2C```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for genetic information processing.\
+```Fig. 2D```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for metabolism.\
+```Supplementary Fig. 4```: Shannon diversity of overall biological pathways compared between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2E```: KEGG ortholog (KO) annotations shared between _L. welshimeri_ and _L. booriae_ for core genome.\
+```Supplementary Fig. 5```: 
+```Fig. 2F```: KO annotations shared between _L. welshimeri_ and _L. booriae_ for accessory genome.\
+```Fig. 2G```: Total number of utilizable substrates compared between _L. welshimeri_ and _L. booriae_.\
+```Fig. 2H```: Proportional differences in utilizable substrates between _L. welshimeri_ and _L. booriae_.
+```Fig. 2I```: Enrichment of COGs among core genes with evidence of positive selection.\
+```Fig. 2J```: Enrichment of COGs among accessory genes with evidence of positive selection.\
+
+
+
+
 ```Supplementary Fig. 6A```: KEGG ortholog (KO) annotations shared between _L. welshimeri_ and _L. booriae_ for core genome.\
 ```Supplementary Fig. 6B```: KO annotations shared between _L. welshimeri_ and _L. booriae_ for accessory genome.\
 ```Supplementary Fig. 7```: Distribution of essential nutrient requirements predicted in _L. welshimeri_ and _L. booriae_.\
