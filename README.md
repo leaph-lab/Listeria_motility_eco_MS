@@ -61,37 +61,35 @@ The code included analysis for:\
 ```Fig. 2I```: Enrichment of COGs among core genes with evidence of positive selection.\
 ```Fig. 2J```: Enrichment of COGs among accessory genes with evidence of positive selection.\
 
-```Supplementary Fig. 7A```: \
+```Supplementary Fig. 7A```: Abiotic environmental factors compared between _L. welshimeri_ and _L. booriae_.\
+```Supplementary Fig. 7B```: Relative abundance of bacterial phyla compared between _L. welshimeri_ and _L. booriae_.
 
-
-```Fig. 2J```: Total number of utilizable substrates compared between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2K```: Proportional differences in utilizable substrates between _L. welshimeri_ and _L. booriae_.
-
-```Supplementary Fig. 8A```: Abiotic environmental factors compared between _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 8B```: Relative abundance of bacterial phyla compared between _L. welshimeri_ and _L. booriae_.
-
-```Supplementary Fig. 9A```: Multidimensional scaling (MDS) analysis of genomes based on Euclidean distances of abiotic factors.\
-```Supplementary Fig. 9B```: MDS analysis of genomes based on weighted UniFrac distances of bacterial community composition derived from OTUs.
+```Supplementary Fig. 8A```: Multidimensional scaling (MDS) analysis of genomes based on Euclidean distances of abiotic factors.\
+```Supplementary Fig. 8B```: MDS analysis of genomes based on weighted UniFrac distances of bacterial community composition derived from OTUs.
 
 ```Fig. 3A```: Venn diagrams from variation partitioning analysis (VPA) showing the proportion of overall gene richness variation explained by soil properties, climate, and surrounding land use for _L. welshimeri_ and _L. booriae_.\
 ```Fig. 3B```: Variation in gene richness of COG categories explained by abiotic factors based on VPA.\
 ```Fig. 3C```: Spearman’s correlations between abiotic factors and gene richness, both overall and for COGs, in _L. booriae_.\
-```Supplementary Fig. 10```: Spearman’s correlations between abiotic factors and gene richness, both overall and for COGs, in _L. welshimeri_.\
+```Supplementary Fig. 9```: Spearman’s correlations between abiotic factors and gene richness, both overall and for COGs, in _L. welshimeri_.\
 ```Fig. 3D```: Venn diagrams from VPA showing the proportion of gene richness variation explained by abiotic and biotic factors for _L. welshimeri_ and _L. booriae_.\
-```Supplementary Fig. 11A```: Shannon-Wiener diversity compared between sites where _L. welshimeri_ and _L. booriae_ were isolated.\
-```Supplementary Fig. 11B```: Pielou’s evenness compared between sites where _L. welshimeri_ and _L. booriae_ were isolated.\
 ```Fig. 3E```: Variation in gene richness of COG categories individually explained by biotic factors based on VPA.\
 ```Fig. 3F```: Spearman’s correlations between the relative abundance of bacterial phyla and gene richness, both overall and for COGs, in _L. booriae_.\
-```Supplementary Fig. 12```: Spearman’s correlation between relative abundance of bacterial phyla and gene richness, both overall and for COGs, in _L. welshimeri_.
+```Supplementary Fig. 10```: Spearman’s correlation between relative abundance of bacterial phyla and gene richness, both overall and for COGs, in _L. welshimeri_.
+
+```Supplementary Fig. 11```: Sankey diagrams showing bacterial genera and species significantly associated with gene richness by COGs in _L. booriae_ and their corresponding phyla.
+
+```Supplementary Fig. 12```: Number of genus and species significantly associated with gene richness by COGs in _L. booriae_.
+
+```Supplementary Fig. 13```: Shannon diversity and Pielou’s evenness compared between sites where _L. welshimeri_ and _L. booriae_ were isolated.
 
 ```Fig. 4A```: Distance-decay relationship in _L. welshimeri_ inferred by the linear regression for genetic similarities measured by average nucleotide identity (ANI) and geographic distances.\
 ```Fig. 4B```: Distance-decay relationship in _L. booriae_ for genetic similarities and geographic distances.\
-```Supplementary Fig. 13```: Distance-decay relationship in _L. welshimeri_ and _L. booriae_ inferred by the linear regression for genetic similarities measured by Jaccard similarity of gene absence/presence and geographic distances.\
+```Supplementary Fig. 14```: Distance-decay relationship in _L. welshimeri_ and _L. booriae_ inferred by the linear regression for genetic similarities measured by Jaccard similarity of gene absence/presence and geographic distances.\
 ```Fig. 4C```: Landscape resistance surfaces representing wildlife connectivity for large mammals.\
 ```Fig. 4D```: Landscape resistance surfaces representing wildlife connectivity for small mammals.\
 ```Fig. 4E```: Landscape resistance surfaces representing wildlife connectivity for regional-terrestrial birds.\
 ```Fig. 4F```: Landscape resistance surfaces representing wildlife connectivity for continental-aquatic birds.\
 ```Fig. 4G```: _R_<sup>2</sup> from linear regressions between genomic difference (1 - ANI) and resistance distance for each wildlife connectivity models.\
-```Supplementary Fig. 14```: Comparison between soil and wild bird _L. welshimeri_ isolates.
+```Supplementary Fig. 15```: Comparison between soil and wild bird _L. welshimeri_ isolates.
 
-```Supplementary Fig. 15```: Comparison of abiotic environmental factors between sites positive and negative for _L. welshimeri_ and _L. booriae_.
+```Supplementary Fig. 16```: Comparison of abiotic environmental factors between sites positive and negative for _L. welshimeri_ and _L. booriae_.
