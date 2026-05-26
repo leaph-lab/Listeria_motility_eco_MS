@@ -48,7 +48,7 @@ The code included analysis for:\
 ```Fig. 2A```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for cellular processes.\
 ```Supplementary Fig. 3A```: KEGG pathway subgroup abundance compared between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2B```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for environmental information processing.\
-```Supplementary Fig. 3B```: KEGG pathway subgroup diversity compared between _L. welshimeri_ and _L. booriae_.\ 
+```Supplementary Fig. 3B```: KEGG pathway subgroup diversity compared between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2C```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for genetic information processing.\
 ```Fig. 2D```: Shannon diversity of KEGG pathways compared between _L. welshimeri_ and _L. booriae_ for metabolism.\
 ```Supplementary Fig. 4```: Shannon diversity of overall biological pathways compared between _L. welshimeri_ and _L. booriae_.\
