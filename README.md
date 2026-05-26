@@ -57,9 +57,9 @@ The code included analysis for:\
 ```Fig. 2F```: KO annotations shared between _L. welshimeri_ and _L. booriae_ for accessory genome.\
 ```Supplementary Fig. 6```: Distribution of essential nutrient requirements predicted in _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2G```: Total number of utilizable substrates compared between _L. welshimeri_ and _L. booriae_.\
-```Fig. 2H```: Proportional differences in utilizable substrates between _L. welshimeri_ and _L. booriae_.
+```Fig. 2H```: Proportional differences in utilizable substrates between _L. welshimeri_ and _L. booriae_.\
 ```Fig. 2I```: Enrichment of COGs among core genes with evidence of positive selection.\
-```Fig. 2J```: Enrichment of COGs among accessory genes with evidence of positive selection.\
+```Fig. 2J```: Enrichment of COGs among accessory genes with evidence of positive selection.
 
 ```Supplementary Fig. 7A```: Abiotic environmental factors compared between _L. welshimeri_ and _L. booriae_.\
 ```Supplementary Fig. 7B```: Relative abundance of bacterial phyla compared between _L. welshimeri_ and _L. booriae_.
