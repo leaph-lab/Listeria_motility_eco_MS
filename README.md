@@ -20,6 +20,7 @@ Processed/source data are available in ```Listeria_motility_eco_MS/data/``` dire
 - scipy
 - statsmodels
 - scikit-learn
+- kaleido
 - rpy2
 
 ## Required R packages
