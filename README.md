@@ -4,6 +4,9 @@ Code and data used to replicate data analyses in the manuscruipt 'Motile and non
 ## Data availability
 Processed/source data are available in ```Listeria_motility_eco_MS/data/``` directory.
 
+## Citation
+Goh YX, Hepp S, Cummings KJ, Wiedmann M, Liao J. Motile and non-motile _Listeria_ species adopt distinct ecological and evolutionary strategies to achieve broad geographic ranges across soil ecosystems. _ISME J_, 20(1):wrag158 (2026). [https://doi.org/10.1093/ismejo/wrag158](https://doi.org/10.1093/ismejo/wrag158)
+
 ## Required Python packages
 - numpy
 - pandas
