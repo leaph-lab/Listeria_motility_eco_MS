@@ -1,5 +1,5 @@
 # Listeria_motility_eco_MS
-Code and data used to replicate data analyses in the manuscruipt 'Motile and non-motile _Listeria_ species adopt distinct ecological and evolutionary strategies to achieve comparably broad geographic ranges across soil ecosystems.'
+Data and code used to replicate data analyses in the manuscruipt 'Motile and non-motile _Listeria_ species adopt distinct ecological and evolutionary strategies to achieve comparably broad geographic ranges across soil ecosystems.'
 
 ## Data availability
 Processed/source data are available in ```Listeria_motility_eco_MS/data/``` directory.
